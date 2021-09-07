@@ -3,7 +3,7 @@
 banco de dados
 atv 2019
 
-1. Sistema de uma agência de turismo:
+# 1. Sistema de uma agência de turismo:
 O objetivo deste trabalho é projetar um sistema de vendas de
 pacotes turísticos para uma agencia. o sistema contará com um
 banco de dados central que será acessado por aplicações clientes,
@@ -12,7 +12,8 @@ rodando tanto dentro da própria companhia, quanto fora dela.
 a. A transação central do sistema é a venda de pacotes turísticos.
 uma venda é identificada por um código gerado pelo sistema
 computacional, que depende a existência de vagas no pacote
-escolhido pelo cliente. a venda é feita para um único cliente, doqual se conhece o nome, cpf, rg, endereço e nro. do
+escolhido pelo cliente. a venda é feita para um único cliente,
+doqual se conhece o nome, cpf, rg, endereço e nro. do
 passaporte, para pacotes internacionais.
 
 b. o pacote turístico compreende um conjunto de atividades que
